@@ -26,22 +26,33 @@
 </div>
 
 ## 개발 환경
-```
+<img src="./참고자료/개발 환경.png">
 
-```
 ## UseCase Diagram
-```
-
-```
+<img src="./참고자료/UC1.png">
+<img src="./참고자료/UC2.png">
 
 ## 기능
-```
-
-```
-
-
+<h3>main 화면</h3>
+<img src="./참고자료/moment1.jpg">
+<h3>사용자 화면(회원 가입 및 로그인, 탈퇴 기능)</h3>
+<img src="./참고자료/moment2.jpg">
+<h3>게시판 화면(글 작성 및 수정, 삭제 기능)</h3>
+<img src="./참고자료/moment3.jpg">
+<img src="./참고자료/moment4.jpg">
+<h3>지도로 원하는 매물 찾기 기능 - KaKaoMap API 기반으로 원하는 조건에 맞춰서 아파트 마커 표시 및 클러스터 기능 제공</h3>
+<img src="./참고자료/moment5.jpg">
+<h3>매물 상세조회 기능 - 마커 및 매물 카드 클릭 시 매물에 대한 상세 정보와 거래 이력을 표와 chart로 제공 및 관심 매물 등록 기능</h3>
+<img src="./참고자료/moment6.jpg">
+<h3>관심 매물,  최근 조회 매물 기능 - 매물에 대한 최근 거래 내역을 card로 제공</h3>
+<img src="./참고자료/moment7.jpg">
+<h3>관리자 페이지, 회원 관리 기능 - 현재 사이트 유지, 보수를 위한 회원 통계 정보를 chart와 표로 제공</h3>
+<img src="./참고자료/moment8.jpg">
 
 ## Class Diagram
-```
-
-```
+<h3>DTO</h3>
+<img src="./참고자료/dto.png">
+<h3>controller</h3>
+<img src="./참고자료/controller.png">
+<h3>mapper</h3>
+<img src="./참고자료/mapper.png">
