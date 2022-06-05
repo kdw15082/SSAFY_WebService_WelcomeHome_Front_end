@@ -1,4 +1,4 @@
-# happyhouse_final
+# WelcomeHome
 
 ## 프로젝트 개요
 ```
