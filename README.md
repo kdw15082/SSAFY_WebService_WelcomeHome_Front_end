@@ -1,24 +1,28 @@
-# happyhouse_final
+# WelcomeHome
 
-## Project setup
+## 프로젝트 개요
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## 프로젝트 기간 & 팀원
 ```
-npm run serve
+npm install
+```
+## Dev Stack
+```
+npm install
+```
+## 개발 환경
+```
+npm install
+```
+## UseCase
+```
+npm install
 ```
 
-### Compiles and minifies for production
+## 
 ```
-npm run build
+npm install
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
